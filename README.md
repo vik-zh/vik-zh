@@ -20,3 +20,13 @@
   <img src="https://img.shields.io/badge/Qlik-white?logo=Qlik&logoColor=green&style=for-the-badge" title="Qlik" alt="Qlik" height="40"/>&nbsp;
   
 </div>
+
+### <p align="center"> Here you can find some of my Python projects: </p>
+
+|Project name| Description| Stack|
+|------------|------------|------|
+|e-commerce project (__[github](https://github.com/vik-zh/e-commerce_analysis)__)|Аналитическое исследование продаж онлайн-магазина, когортный анализ клиентов, RFM-анализ|Pandas, Numpy, Seaborn, Matplotlib|
+|АБ-тест новой системы рекомендаций в приложении по доставке продуктов (__[github](https://github.com/vik-zh/delivery_rec_system_AB)__)|Определение продуктовых метрик и их статистическое исследование |Pandas, Numpy, Seaborn, Matplotlib, Scipy|
+|АБ-тест нового алгоритма поиска в приложении для знакомств (__[github](https://github.com/vik-zh/dating_app_AB)__)|Выявление фокусных метрик для оценки работы нового алгоритма, проведение статистического сравнения метрик |Pandas, Numpy, Seaborn, Matplotlib, Scipy|
+
+<hr>
