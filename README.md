@@ -30,3 +30,5 @@
 |АБ-тест нового алгоритма поиска в приложении для знакомств (__[github](https://github.com/vik-zh/dating_app_AB)__)|Выявление фокусных метрик для оценки работы нового алгоритма, проведение статистического сравнения метрик |Pandas, Numpy, Seaborn, Matplotlib, Scipy|
 
 <hr>
+
+*Feel free to contact me via* <a href="">[![Telegram](https://img.shields.io/badge/Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/vctrzh)</a> 
